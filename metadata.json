@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Duki DC Office File Management System",
+  "description": "A comprehensive file management system for the Deputy Commissioner's office in Duki district. It allows for user management, document uploading, forwarding to officers, tracking file status (seen, under process, submitted, overdue), and automated reminders for deadlines.",
+  "requestFramePermissions": []
+}
